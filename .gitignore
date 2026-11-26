@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+chat.sqlite3
+*.db
+.pytest_cache/
